@@ -13,5 +13,10 @@
         "name": "SERVICE THREE",
         "url": "/getDoc/service_three",
         "swaggerURL" : "http://127.0.0.1:3001/service_three/v3/api-docs"
+    },
+    {
+        "name": "SERVICE FOUR",
+        "url": "/getDoc/service_four",
+        "swaggerURL" : "http://127.0.0.1:3001/service_four/v3/api-docs"
     }
 ]
