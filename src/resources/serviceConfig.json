@@ -1,0 +1,17 @@
+[
+    {
+        "name": "SERVICE ONE",
+        "url": "/getDoc/service_one",
+        "swaggerURL" : "http://127.0.0.1:3001/service_one/v3/api-docs"
+    },
+    {
+        "name": "SERVICE TWO",
+        "url": "/getDoc/service_two",
+        "swaggerURL" : "http://127.0.0.1:3001/service_two/v3/api-docs"
+    },
+    {
+        "name": "SERVICE THREE",
+        "url": "/getDoc/service_three",
+        "swaggerURL" : "http://127.0.0.1:3001/service_three/v3/api-docs"
+    }
+]
